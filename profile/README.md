@@ -25,9 +25,8 @@ We welcome contributors from all over the world! Whether you're a developer, des
 
 Here are a few of our key projects:
 
-- **Project A**: A brief description of Project A and its significance.
-- **Project B**: A brief description of Project B and how it benefits the community.
-- **Project C**: A brief description of Project C and its goals.
+- **eLearning App**: A comprehensive Flutter-based application designed to enhance the learning experience with features such as course management, quizzes, and user profiles. [Explore the repository](https://github.com/EunoiaBT/ebt_flutter_elearning)
+- **eLearning App Backend**: A robust NestJS backend providing APIs to support the Flutter frontend, handling user authentication, course management, and email notifications. [Explore the repository](https://github.com/EunoiaBT/ebt_nestjs_elearning)
 
 _For a full list of our projects, visit our [repositories](https://github.com/EunoiaBT)._
 
